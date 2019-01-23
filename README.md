@@ -1,4 +1,4 @@
-This dataset was obtained from Kaggle. There are a total of 16 datasets that contain information on demography, accidents and transport in Barcelona. This notebook extracts data from here to present an overview of Barcelona demographics in 2017. The exceptions are: 1) the most frequent names & 2) most frequent baby names datasets- as neither contains 2017 information. A general summary is presented for both these datasets.)
+There are a total of 16 datasets here (source: Kaggle) that contain information on demography, accidents and transport in Barcelona. This notebook extracts information from these datasets to present an overview of Barcelona demographics in 2017. The exceptions are: 1) the most frequent names & 2) most frequent baby names datasets- as neither contains 2017 information. A general summary is presented for both these datasets.)
 
 1) births.csv. Births by nationalities and by neighbourhoods of the city of Barcelona (2013-2017).
 2) deaths.csv. Deaths by quinquennial ages and by neighbourhoods of the city of Barcelona (2015-2017).
