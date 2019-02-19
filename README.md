@@ -1,4 +1,4 @@
-There are a total of 16 datasets here (source: Kaggle) that contain information on demography, accidents and transport in Barcelona from 2013-17. This notebook extracts information from these datasets to present an overview of Barcelona demographics in 2017. 
+There are a total of 16 datasets here (source (Kaggle): https://www.kaggle.com/xvivancos/barcelona-data-sets) that contain information on demography, accidents and transport in Barcelona from 2013-17. This notebook extracts information from these datasets to present an overview of Barcelona demographics in 2017. 
 
 Technologies used:
 - SQL
